@@ -36,7 +36,7 @@ const values: ValueItem[] = [
 
 export default function Values() {
   return (
-    <section className="w-full mt-60  ">
+    <section className="w-full mt-60  z-10">
       <div className=" ">
         <h2 className="text-5xl font-medium text-gray-900 text-center">Our Values</h2>
         <p className="text-gray-600 mt-2 mb-12 text-center text-xl">
